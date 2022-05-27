@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<hello-world>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.dockerforjavadevelopers.hello.Application",
+            "projectName": "hello-world",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
